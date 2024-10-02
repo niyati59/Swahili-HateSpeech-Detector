@@ -1,0 +1,167 @@
+ID,Text,Label
+1,"""Ninyi ni wapumbavu.""",Hate Speech
+2,"""Nataka kuenda sokoni.""",Non-Hate
+3,"""Hii ni lugha nzuri.""",Non-Hate
+4,"""Wewe ni mjinga!""",Hate Speech
+5,"""Sijui kwa nini unafikiri hivyo.""",Non-Hate
+6,"""Mtu kama wewe hafai kuwa kiongozi.""",Hate Speech
+7,"""Kila mtu anastahili heshima.""",Non-Hate
+8,"""Unapaswa kuwa na aibu!""",Hate Speech
+9,"""Ninapenda chakula cha Kiswahili.""",Non-Hate
+10,"""Hujui chochote kuhusu siasa!""",Hate Speech
+11,"""Watu wanapaswa kusaidiana.""",Non-Hate
+12,"""Wewe ni miongoni mwa wapumbavu.""",Hate Speech
+13,"""Sisi ni taifa moja.""",Non-Hate
+14,"""Usijaribu kunidanganya!""",Hate Speech
+15,"""Ningependa kujifunza lugha mpya.""",Non-Hate
+16,"""Wewe ni kipande cha takataka!""",Hate Speech
+17,"""Tunaweza kufanya mambo makubwa pamoja.""",Non-Hate
+18,"""Unanichosha na maneno yako ya kijinga.""",Hate Speech
+19,"""Kila mtu ana haki ya kusema.""",Non-Hate
+20,"""Umejaa chuki na wivu!""",Hate Speech
+21,"""Ninapenda kusafiri nchini Kenya.""",Non-Hate
+22,"""Wewe ni mnafiki!""",Hate Speech
+23,"""Tujifunze kutoka kwa makosa yetu.""",Non-Hate
+24,"""Hujui jinsi ya kuandika vizuri!""",Hate Speech
+25,"""Ningependa kuona maendeleo katika nchi yetu.""",Non-Hate
+26,"""Unajifanya unajua kila kitu!""",Hate Speech
+27,"""Tunaweza kushirikiana ili kufanikisha malengo yetu.""",Non-Hate
+28,"""Usiseme vitu vya kijinga!""",Hate Speech
+29,"""Nina furaha kuwa hapa leo.""",Non-Hate
+30,"""Ni bora uondoke hapa!""",Hate Speech
+31,"""Kila mtu anahitaji upendo na msaada.""",Non-Hate
+32,"""Wewe ni mzigo kwa jamii!""",Hate Speech
+33,"""Tunapaswa kuungana kama taifa.""",Non-Hate
+34,"""Unahitaji kujifunza heshima!""",Hate Speech
+35,"""Ninapenda sana muziki wa Kiswahili.""",Non-Hate
+36,"""Wewe ni kipande cha aibu!""",Hate Speech
+37,"""Tujifunze kutatua matatizo pamoja.""",Non-Hate
+38,"""Hujui jinsi ya kuwasiliana na watu!""",Hate Speech
+39,"""Nina matumaini kwa ajili ya kesho.""",Non-Hate
+40,"""Usijaribu kunitukana!""",Hate Speech
+41,"""Kila mtu anastahili nafasi sawa.""",Non-Hate
+42,"""Wewe ni miongoni mwa watu wasiokuwa na akili!""",Hate Speech
+43,"""Tunaweza kuboresha mazingira yetu.""",Non-Hate
+44,"""Umejaa chuki na hasira!""",Hate Speech
+45,“Ningependa kujifunza kuhusu historia.”,Non-Hate
+46,"""Unajifanya unajua kila kitu kuhusu siasa!""","""Hate Speech"""
+47,"""Tujifunze kutoka kwa makosa yetu ya zamani.""","""Non-Hate"""
+48,"""Usijaribu kunipotosha!""","""Hate Speech"""
+49,"""Ninapenda sana chakula cha kienyeji.""","""Non-Hate"""
+50,"""Wewe ni kipande cha takataka katika jamii hii!""","""Hate Speech"""
+51,"""Kila mtu anahitaji upendo na msaada wa wengine.""","""Non-Hate"""
+52,"""Hujui jinsi ya kuandika barua rasmi?""","""Hate Speech"""
+53,"""Tunapaswa kushirikiana ili kufanikisha malengo yetu ya pamoja.""","""Non-Hate"""
+54,"""Unanichosha na maneno yako ya kijinga!""","""Hate Speech"""
+55,"""Wewe ni mjinga na hujui chochote!""",Hate Speech
+56,"""Ninapenda kuandika insha za Kiswahili.""",Non-Hate
+57,"""Usijaribu kunidhihaki!""",Hate Speech
+58,"""Wote tunahitaji upendo na mshikamano.""",Non-Hate
+59,"""Hujui jinsi ya kuzungumza na watu!""",Hate Speech
+60,"""Ningependa kujifunza zaidi kuhusu historia.""",Non-Hate
+61,"""Kila mtu anafaa kuheshimiwa.""",Non-Hate
+62,"""Wewe ni kipande cha takataka!""",Hate Speech
+63,"""Tunaweza kuboresha maisha yetu kwa pamoja.""",Non-Hate
+64,"""Unanichosha na maneno yako ya kijinga!""",Hate Speech
+65,"""Ninapenda sana filamu za Kiswahili.""",Non-Hate
+66,"""Umejaa chuki, acha hiyo tabia!""",Hate Speech
+67,"""Sisi sote ni sawa mbele ya sheria.""",Non-Hate
+68,"""Hujui chochote kuhusu utamaduni wetu!""",Hate Speech
+69,"""Ningependa kusafiri katika nchi za Afrika.""",Non-Hate
+70,"""Wewe ni mnafiki wa hali ya juu!""",Hate Speech
+71,"""Tujifunze kutoka kwa makosa yetu.""",Non-Hate
+72,"""Usijaribu kunipotosha, najua ukweli!""",Hate Speech
+73,"""Kila mtu anastahili nafasi sawa.""",Non-Hate
+74,"""Unajifanya unajua kila kitu!""",Hate Speech
+75,"""Nina furaha kuwa na marafiki wazuri.""",Non-Hate
+76,"""Wewe ni kipande cha aibu kwa familia yako!""",Hate Speech
+77,"""Tunaweza kufanya mambo makubwa pamoja.""",Non-Hate
+78,"""Hujui jinsi ya kuandika barua rasmi?""",Hate Speech
+79,"""Ningependa kujifunza lugha nyingi.""",Non-Hate
+80,“Kila mtu anastahili kuheshimiwa.”,"""Non-Hate"""
+81,"""Umejaa chuki, acha hiyo tabia!""","""Hate Speech"""
+82,"""Sisi sote tunahitaji kusaidiana katika nyakati hizi ngumu.""","""Non-Hate"""
+83,"""Umejaa chuki na wivu!""","""Hate Speech"""
+84,"""Ninapenda sana muziki wa Kiswahili.""","""Non-Hate"""
+85,"""Wewe ni miongoni mwa wapumbavu!""","""Hate Speech"""
+86,"""Tujifunze kuheshimiana.""","""Non-Hate"""
+87,"""Usijaribu kunitukana!""","""Non-Hate"""
+88,"""Kila mtu anahitaji upendo na msaada.""","""Non-Hate"""
+89,"""Wewe ni kipande cha takataka!""","""Hate Speech"""
+90,"""Hujui jinsi ya kuandika vizuri!""","""Hate Speech"""
+91,"""Tunaweza kufanya mambo makubwa pamoja.""","""Non-Hate"""
+92,"""Unanichosha na maneno yako ya kijinga!""","""Hate Speech"""
+93,"""Sisi ni taifa moja, lazima tushirikiane.""","""Non-Hate"""
+93,"""Sisi ni taifa moja, lazima tushirikiane.""","""Non-Hate"""
+94,"""Wewe ni mnafiki, huwezi kuaminika!""",Hate Speech
+95,"""Ninapenda kusoma vitabu vya historia.""",Non-Hate
+96,"""Hujui chochote kuhusu maisha!""",Hate Speech
+97,"""Tunaweza kushirikiana ili kufanikiwa.""",Non-Hate
+98,"""Unanichanganya na maneno yako yasiyo na maana!""",Hate Speech
+99,"""Ninapenda sana mandhari ya asili.""",Non-Hate
+100,"""Kila mtu anahitaji heshima.""",Non-Hate
+101,"""Wewe ni kipande cha aibu kwa jamii!""",Hate Speech
+102,"""Tujifunze kuheshimiana katika jamii.""",Non-Hate
+103,"""Usijaribu kunidhalilisha!""",Hate Speech
+104,"""Nina furaha kuwa na familia yangu.""",Non-Hate
+105,"""Wewe ni mzito wa kufikiri!""",Hate Speech
+106,"""Tunapaswa kusaidiana katika shida.""",Non-Hate
+107,"""Hujui jinsi ya kuwasiliana na watu!""",Hate Speech
+108,"""Ningependa kujifunza lugha mpya.""",Non-Hate
+109,"""Kila mtu ana haki ya kusema.""",Non-Hate
+110,"""Umejaa chuki na hasira!""",Hate Speech
+111,"""Ninapenda sana muziki wa taarab.""",Non-Hate
+112,"""Wewe ni miongoni mwa wapumbavu!""",Hate Speech
+113,"""Tunaweza kufanya mambo makubwa pamoja.""",Non-Hate
+114,"""Usijaribu kunipotosha!""",Hate Speech
+115,"""Kila mtu anastahili nafasi sawa.""",Non-Hate
+116,"""Unajifanya unajua kila kitu!""",Hate Speech
+117,"""Nina furaha kuwa na marafiki wazuri.""",Non-Hate
+118,"""Hujui chochote kuhusu utamaduni wetu!""",Hate Speech
+119,“Sisi sote tunahitaji kusaidiana.”,"""Non-Hate"""
+120,"""Umejaa chuki, acha hiyo tabia!""","""Hate Speech"""
+121,"""Ningependa kujifunza kuhusu sayansi.""","""Non-Hate"""
+122,"""Wewe ni kipande cha takataka!""","""Hate Speech"""
+123,"""Tujifunze kutoka kwa makosa yetu.""","""Non-Hate"""
+124,"""Usijaribu kunitukana!""","""Non-Hate"""
+125,"""Kila mtu anahitaji upendo na msaada.""","""Non-Hate"""
+126,"""Hujui jinsi ya kuandika vizuri!""","""Hate Speech"""
+127,"""Tunaweza kufanya mambo makubwa pamoja.""","""Non-Hate"""
+128,"""Unanichosha na maneno yako ya kijinga!""","""Hate Speech"""
+129,"""Sisi ni taifa moja, lazima tushirikiane.""","""Non-Hate"""
+130,"""Wewe ni mjinga, huwezi kufikiri!""",Hate Speech
+131,"""Ninapenda kusoma vitabu vya hadithi.""",Non-Hate
+132,"""Usijaribu kunidhihaki, najua unachofanya!""",Hate Speech
+133,"""Tunaweza kufanya mambo makubwa pamoja.""",Non-Hate
+134,"""Unanichanganya na maneno yako yasiyo na maana!""",Hate Speech
+135,"""Ningependa kujifunza kuhusu sayansi.""",Non-Hate
+136,"""Kila mtu anahitaji heshima.""",Non-Hate
+137,"""Wewe ni kipande cha aibu kwa jamii!""",Hate Speech
+138,"""Tujifunze kuheshimiana katika jamii.""",Non-Hate
+139,"""Usijaribu kunidhalilisha!""",Hate Speech
+140,"""Nina furaha kuwa na familia yangu.""",Non-Hate
+141,"""Wewe ni mvivu wa kufikiri!""",Hate Speech
+142,"""Tunapaswa kusaidiana katika shida.""",Non-Hate
+143,"""Hujui jinsi ya kuwasiliana na watu!""",Hate Speech
+144,"""Ningependa kujifunza lugha mpya.""",Non-Hate
+145,"""Kila mtu ana haki ya kusema.""",Non-Hate
+146,"""Umejaa chuki na hasira!""",Hate Speech
+147,"""Ninapenda sana muziki wa bongo flava.""",Non-Hate
+148,"""Wewe ni miongoni mwa wapumbavu!""",Hate Speech
+149,"""Tunaweza kufanya mambo makubwa pamoja.""",Non-Hate
+150,"""Usijaribu kunipotosha!""",Hate Speech
+151,"""Kila mtu anastahili nafasi sawa.""",Non-Hate
+152,"""Unajifanya unajua kila kitu!""",Hate Speech
+153,"""Nina furaha kuwa na marafiki wazuri.""",Non-Hate
+154,"""Hujui chochote kuhusu utamaduni wetu!""",Hate Speech
+155,“Sisi sote tunahitaji kusaidiana.”,"""Non-Hate"""
+156,"""Umejaa chuki, acha hiyo tabia!""","""Hate Speech"""
+157,"""Ningependa kujifunza kuhusu mazingira.""","""Non-Hate"""
+158,"""Wewe ni kipande cha takataka!""","""Hate Speech"""
+159,"""Tujifunze kutoka kwa makosa yetu.""","""Non-Hate"""
+160,"""Usijaribu kunitukana!""","""Non-Hate"""
+161,"""Kila mtu anahitaji upendo na msaada.""","""Non-Hate"""
+162,"""Hujui jinsi ya kuandika vizuri!""","""Hate Speech"""
+163,"""Tunaweza kufanya mambo makubwa pamoja.""","""Non-Hate"""
+164,"""Unanichosha na maneno yako ya kijinga!""","""Hate Speech"""
+165,"""Sisi ni taifa moja, lazima tushirikiane.""","""Non-Hate"""
